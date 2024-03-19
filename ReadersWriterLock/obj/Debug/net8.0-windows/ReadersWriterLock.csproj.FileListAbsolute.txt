@@ -1,0 +1,17 @@
+D:\VS Community\C#.NET_2\ReadersWriterLock\ReadersWriterLock\bin\Debug\net8.0-windows\ReadersWriterLock.exe
+D:\VS Community\C#.NET_2\ReadersWriterLock\ReadersWriterLock\bin\Debug\net8.0-windows\ReadersWriterLock.deps.json
+D:\VS Community\C#.NET_2\ReadersWriterLock\ReadersWriterLock\bin\Debug\net8.0-windows\ReadersWriterLock.runtimeconfig.json
+D:\VS Community\C#.NET_2\ReadersWriterLock\ReadersWriterLock\bin\Debug\net8.0-windows\ReadersWriterLock.dll
+D:\VS Community\C#.NET_2\ReadersWriterLock\ReadersWriterLock\bin\Debug\net8.0-windows\ReadersWriterLock.pdb
+D:\VS Community\C#.NET_2\ReadersWriterLock\ReadersWriterLock\obj\Debug\net8.0-windows\ReadersWriterLock.Library.resources
+D:\VS Community\C#.NET_2\ReadersWriterLock\ReadersWriterLock\obj\Debug\net8.0-windows\ReadersWriterLock.csproj.GenerateResource.cache
+D:\VS Community\C#.NET_2\ReadersWriterLock\ReadersWriterLock\obj\Debug\net8.0-windows\ReadersWriterLock.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS Community\C#.NET_2\ReadersWriterLock\ReadersWriterLock\obj\Debug\net8.0-windows\ReadersWriterLock.AssemblyInfoInputs.cache
+D:\VS Community\C#.NET_2\ReadersWriterLock\ReadersWriterLock\obj\Debug\net8.0-windows\ReadersWriterLock.AssemblyInfo.cs
+D:\VS Community\C#.NET_2\ReadersWriterLock\ReadersWriterLock\obj\Debug\net8.0-windows\ReadersWriterLock.csproj.CoreCompileInputs.cache
+D:\VS Community\C#.NET_2\ReadersWriterLock\ReadersWriterLock\obj\Debug\net8.0-windows\ReadersWriterLock.sourcelink.json
+D:\VS Community\C#.NET_2\ReadersWriterLock\ReadersWriterLock\obj\Debug\net8.0-windows\ReadersWriterLock.dll
+D:\VS Community\C#.NET_2\ReadersWriterLock\ReadersWriterLock\obj\Debug\net8.0-windows\refint\ReadersWriterLock.dll
+D:\VS Community\C#.NET_2\ReadersWriterLock\ReadersWriterLock\obj\Debug\net8.0-windows\ReadersWriterLock.pdb
+D:\VS Community\C#.NET_2\ReadersWriterLock\ReadersWriterLock\obj\Debug\net8.0-windows\ReadersWriterLock.genruntimeconfig.cache
+D:\VS Community\C#.NET_2\ReadersWriterLock\ReadersWriterLock\obj\Debug\net8.0-windows\ref\ReadersWriterLock.dll

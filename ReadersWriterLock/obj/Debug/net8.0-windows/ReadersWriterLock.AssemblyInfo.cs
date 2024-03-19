@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReadersWriterLock")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbfb99fc9d10decb258bcbd79a46c8ad2f68b517")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReadersWriterLock")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReadersWriterLock")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
