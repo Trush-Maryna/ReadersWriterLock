@@ -70,22 +70,18 @@ classDiagram
 title: Readers-writer lock
 ---
 stateDiagram
-    direction LR
-    [*] --> Library
-    Library --> Reader
-    Library --> Writer
-    Library --> ILock
-    Library --> ReadLock
-    Library --> WriteLock
-    Library --> ReaderWriterLock
-    Reader --> ILock
-    Writer --> ILock
-    ReaderWriterLock --> ILock
-    Reader --> Reader: Create
-    Writer --> Writer: Create
-    ReaderWriterLock --> ReaderWriterLock: Create
-    Reader --> Reader: Run
-    Writer --> Writer: Run
+    [*] --> Off
+    Off --> Start
+    Start --> Reading: Lock
+    Reading --> Reading: Run
+    Reading --> Start: Interrupt
+    Reading --> Start: Unlock
+    Start --> Writing: Lock
+    Writing --> Writing: Run
+    Writing --> Start: Interrupt
+    Writing --> Start: Unlock
+    Start --> Off
+    Off --> [*]
 ```
 
 ### Опис основних структурних елементів :
